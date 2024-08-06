@@ -1,8 +1,9 @@
 <h3>Installasi</h3>
+-----------------------
 1. Install Dependencies <br/>
-    - composer install
-    - npm i
-    
+   - composer install <br/>
+   - npm i
+
 2. Konfigurasi .env
    - php artisan key:generate
    - mailtrap
