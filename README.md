@@ -16,13 +16,17 @@
    - Queue
      QUEUE_CONNECTION=database
 
-4. Generate KEY
+3. Generate KEY
    - php artisan key:generate
 
-6. Migrasi dan Seed
+4. Migrasi dan Seed
    - php artisan migrate
    - php artisan db:seed --class=User
      
-8. Run Server
+5. Run Server
    - php artisan serve
    - php artisan queue:work
+
+6. Masuk app
+    - email: admin@gmail.com
+    - pass : admin123 
