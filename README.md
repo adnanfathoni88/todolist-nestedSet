@@ -1,5 +1,4 @@
 <h3>Installasi</h3>
------------------------
 1. Install Dependencies <br/>
    - composer install <br/>
    - npm i
