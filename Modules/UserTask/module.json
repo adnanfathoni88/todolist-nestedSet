@@ -1,0 +1,11 @@
+{
+    "name": "UserTask",
+    "alias": "usertask",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\UserTask\\Providers\\UserTaskServiceProvider"
+    ],
+    "files": []
+}
